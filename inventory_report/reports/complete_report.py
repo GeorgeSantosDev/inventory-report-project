@@ -17,5 +17,5 @@ class CompleteReport(SimpleReport):
 
         for key, value in producers.items():
             response += f"- {key}: {value}\n"
-        print(response)
+
         return response
