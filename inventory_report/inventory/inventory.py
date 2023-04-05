@@ -9,7 +9,7 @@ import os
 
 class Inventory:
     @classmethod
-    def import_data(cls, path: str, type: str) -> str:
+    def import_data(cls, path: str, report_type: str) -> str:
         _, extension = os.path.splitext(path)
         data = []
 
@@ -25,4 +25,4 @@ class Inventory:
             "completo": CompleteReport.generate,
         }
 
-        return report[type](data)
+        return report[report_type](data)
