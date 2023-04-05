@@ -17,4 +17,3 @@ class XmlImporter(Importer):
                 return data
         except FileNotFoundError:
             print('Arquivo não encontrado')
-
