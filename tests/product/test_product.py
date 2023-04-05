@@ -2,11 +2,11 @@ from inventory_report.inventory.product import Product
 
 
 expected = (
-    'O produto D '
-    'fabricado em 2002-05-12 '
-    'por AZ com validade '
-    'até 2019-05-12 '
-    'precisa ser armazenado air.'
+    "O produto D "
+    "fabricado em 2002-05-12 "
+    "por AZ com validade "
+    "até 2019-05-12 "
+    "precisa ser armazenado air."
 )
 
 
