@@ -7,7 +7,7 @@
 
 # Built With
 
-#### <a href="https://https://www.python.org/" rel="nofollow"> - Python </a> </br></br>
+#### <a href="https://www.python.org/" rel="nofollow"> - Python </a> </br></br>
 #### <a href="https://docs.pytest.org/en/7.2.x/" rel="nofollow"> - Pytest </a> </br></br>
 #### <a href="https://flake8.pycqa.org/en/latest/" rel="nofollow"> - Flake8 </a> </br></br>
 
