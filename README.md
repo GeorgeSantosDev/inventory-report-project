@@ -11,7 +11,7 @@
 #### <a href="https://docs.pytest.org/en/7.2.x/" rel="nofollow"> - Pytest </a> </br></br>
 #### <a href="https://flake8.pycqa.org/en/latest/" rel="nofollow"> - Flake8 </a> </br></br>
 
-<br> <br>
+<br>
 
 # How try the application?
 
